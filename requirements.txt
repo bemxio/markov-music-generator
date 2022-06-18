@@ -1,0 +1,2 @@
+markovify==0.9.4
+mido==1.2.10
